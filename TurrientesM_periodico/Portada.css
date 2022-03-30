@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Road+Rage&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Road+Rage&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Alfa+Slab+One&family=Road+Rage&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Alfa+Slab+One&family=Road+Rage&family=Satisfy&display=swap');
+
+body {background-image: url("images/fondo.jpg");}
+
+table{
+	margin: 0px 190px;	
+}
+
+table tr th{
+	width: 25%;
+}
+
+table tr td{
+	width: 25%;
+}
+
+p{
+	font-size: 10px;
+	margin: 0px;
+	text-align: justify;
+	font-family: Abril Fatfaces, 'Arial Narrow', Arial;
+}
+
+h1{
+	font-size: 40px;
+	margin: 0px;
+	text-align: center;
+	font-family: Alfa Slab One, 'Arial Narrow', Arial;
+}
+
+h2{
+	font-size: 15px;
+	margin: 0px;
+	font-family: Road Rage, 'Arial Narrow', Arial;
+}
+
+img{
+	width: 100%;
+}
+
+#recorte{
+	border-color: black;
+	border-style: dotted;
+}
+
+#caja1, #caja2{
+	background-color: black;
+}
+
+.letra1{
+	color: blanchedalmond;
+}
+
+ol li{
+	font-size: 8px;
+	margin: 0px;
+	text-align: justify;
+}
+
+.pag{
+	text-align: center;
+	font-family: Satisfy, 'Arial Narrow', Arial;
+}
+
+span{
+	font-size: 55px;
+	font-family: Road Rage, 'Arial Narrow', Arial;
+}
+
+.linea{
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+}
+
+.pag{
+	background-image: url('images/pag.jpg');
+	border: 3px solid;
+}
+
+.linea2{
+	border-right: 2px solid;
+	border-left: 2px solid;
+}
+
+.linea3{
+	border-right: 2px solid;
+}
